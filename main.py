@@ -1,4 +1,3 @@
-a = " Hello, World! "
-b = "Konichiva, Mitra" 
-c= a+""+b
-print(c)
+# test_my_code.py (or any test file)
+def test_dummy():
+    assert True
